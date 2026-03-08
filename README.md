@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Achint
 - 👀 I love swimming and TableTennis
-- 🌱 I’m currently learning **ReactJS**, **NodeJS**, **MongoDB**, **ExpressJS** and acing on Python and Java...
+- 🌱 I’m currently learning **ReactJS**, **NodeJS**, **MongoDB**, **ExpressJS** and acing on Python and Java.
 - 📫 How to reach me rekhiachint@gmail.com
 
 
